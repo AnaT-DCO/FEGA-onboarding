@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Establishing a Federated EGA Node
+title: Bon dia! On my way to establishing a Federated EGA Node
 nav_order: 1
 ---
 
