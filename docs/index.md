@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Bon dia! On my way to establishing a Federated EGA Node
+title: Establishing a Federated EGA Node
 nav_order: 1
 ---
 
 <img src="./assets/img/FEGA-logo-generic.svg" alt="Federated EGA logo, colored logo of storage disk with human figure emerging from behind and the text Federated European Genome-phenome Archive on the right." width="140"  align="right" />
 
-# Establishing a Federated EGA Node
+# Bon dia! On my way to establishing a Federated EGA Node
 
 Welcome to this collection of onboarding materials for establishing a Federated EGA Node!
 
